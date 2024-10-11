@@ -3,4 +3,3 @@
 - 🌱 Currently, I'm a student that is in the journey of learning various programming languages and concepts.
 - 💞️ I'm enthusiastic about collaborating with fellow coders on exciting projects and challenges.
 - 📫 You can reach me at akif@hotmail.com for any collaboration or discussion.
-- 😄 Pronouns: he/him
