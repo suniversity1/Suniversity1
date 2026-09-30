@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @suniversity1, a passionate student eager to explore the realms of programming.
-- 👀 I'm deeply interested in programming and constantly seeking opportunities to expand my knowledge and skills.
-- 🌱 Currently, I'm a student that is in the journey of learning various programming languages and concepts.
-- 💞️ I'm enthusiastic about collaborating with fellow coders on exciting projects and challenges.
-- 📫 You can reach me at akif@hotmail.com for any collaboration or discussion.
+# Mehmet Akif Gültekin
+
+Computer science student interested in software development and building practical projects.
+
+Currently learning programming languages, software development concepts, and working on projects to strengthen my skills.
